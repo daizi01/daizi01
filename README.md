@@ -8,3 +8,4 @@
 daizi01/daizi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+daizi01/daizi01 is now a special repository: its README.md will appear on your profile
